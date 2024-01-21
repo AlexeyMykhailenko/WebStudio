@@ -1,0 +1,193 @@
+/* .container{
+    margin: 0 auto;
+} */
+/* ========================header=============================== */
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+.flex{
+    display: flex;
+}
+.header_wrap{
+    justify-content: space-around;
+    align-items: center;
+}
+.menu{
+    gap: 50px;
+}
+.p1_wrap{
+    gap: 93px;
+}
+.p2_wrap{
+    gap: 50px;
+}
+.logo{
+    margin-top: 15px;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #212121;
+}
+.el1{
+    color: #2196F3;
+}
+.el2{
+    color: 
+    #757575;
+}
+/* ======================section_1================================ */
+.sec_1_wrap{
+    width: 1872px;
+    height: 600px;
+    background-color: #2F303A;
+}
+h1{
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+    padding-top: 200px;
+}
+.btn{
+    width: 216px;
+    height: 50px;
+    background-color: #2196F3;
+    color: #FFFFFF;
+    margin-left: 820px;
+
+}
+.button{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    padding: 10px 32px;
+    display: block;
+    margin-left: 12px;
+}
+/* =======================================section_2=========================================== */
+.section_2_wrap{
+    gap: 30px;
+    margin-left: 370px;
+}
+.textarea{
+    width: 270px;
+    height: 98px;
+    color: #757575;
+}
+.textarea-2{
+    width: 270px;
+    height: 48px;
+    color: #757575;
+}
+/* ==========================================section_3======================================== */
+.sec_3_wrap{
+    background-color: #F5F4FA;
+    width: 1600px;
+    height: 648px;
+    margin-top: 94px;
+}
+.image_block{
+    gap: 30px;
+    margin-left: 340px;
+}
+.sec_3-h2{
+    text-align: center;
+}
+/* ==========================================section_4======================================== */
+.section_3_wrap{
+    background-color: #F5F4FA;
+}
+.sec_4-h2{
+    text-align: center;
+    margin-top: 188px;
+}
+.team_photos{
+    gap: 50px;
+}
+.ihor_photo{
+    width: 270px;
+    height: 368px;
+    padding-left: 215px;
+}
+.ihor_photo-1{
+    width: 270px;
+    height: 260px;
+}
+.product_designer{
+    color: #757575;
+}
+.sign_1{
+    padding-left: 75px;
+    padding-bottom: 30px;
+}
+.olga_photo{
+    width: 270px;
+    height: 368px;
+}
+.olga_photo-1{
+    width: 270px;
+    height: 260px;
+}
+.frontend_developer{
+    color: #757575;
+}
+.sign_2{
+    padding-left: 70px;
+}
+.mykola_photo{
+    width: 270px;
+    height: 368px;
+}
+.mykola_photo-1{
+    width: 270px;
+    height: 260px;
+}
+.sign_3{
+    padding-left: 70px;
+}
+.marketing{
+    color: #757575;
+}
+.mykhailo_photo{
+    width: 270px;
+    height: 368px;
+}
+.mykhailo_photo-1{
+    width: 270px;
+    height: 260px;
+}
+.sign_4{
+    padding-left: 75px;
+}
+.ui_designer{
+    color: #757575;
+}
+/* ==========================================footer========================================= */
+.ftr_wrap{
+    background-color: #2F303A;
+    width: 1880px;
+    height: 252px;
+}
+.ftr_logo{
+    padding-left: 215px;
+    padding-top: 60px;
+}
+.adrs_1{
+    color: #FFFFFF;
+}
+.ftr_el_1{
+    color: #9b9898;
+}.ftr_el_2{
+    color: #9b9898;
+}
+address{
+    padding-left: 215px;
+    padding-top: 20px;
+}
